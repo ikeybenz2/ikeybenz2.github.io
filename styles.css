@@ -1,0 +1,12 @@
+body {
+  background-color: lightgray;
+  margin: 0;
+}
+.Content {
+  width: 100vw;
+  height: 100vmax;
+  max-width: 1090px;
+  margin: 0 auto;
+  background-color: white;
+}
+
